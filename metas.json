@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "detalles": "correr media hora",
+        "periodo": "dia",
+        "eventos": 1,
+        "icono": "🏃",
+        "meta": 365,
+        "plazo": "2030-01-01",
+        "completado": 25
+    },
+    {
+        "id": "2",
+        "detalles": "leer 20 páginas",
+        "periodo": "dia",
+        "eventos": 1,
+        "icono": "📚",
+        "meta": 7300,
+        "plazo": "2030-01-01",
+        "completado": 100
+    },
+    {
+        "id": "3",
+        "detalles": "aprender una nueva habilidad",
+        "periodo": "mes",
+        "eventos": 12,
+        "icono": "🛠️",
+        "meta": 12,
+        "plazo": "2025-12-31",
+        "completado": 5
+    }
+]
